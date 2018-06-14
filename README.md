@@ -133,7 +133,7 @@ Time   | [Monday](#w2d1)                          | [Tuesday](#w2d2)            
 
 #### Week 2 | Tuesday
 <a name="w2d2"></a>
-- [Function & Scope examples](https://github.com/ga-students/WDI_HK_10/tree/master/00-programming/js-functions-and-scope/examples)
+- [Function & Scope examples](00-programming/js-functions-and-scope/examples)
 
 #### Week 2 | Friday
 <a name="w2d5"></a>
@@ -380,9 +380,9 @@ Time   | [Monday](#w9d1)                          | [Tuesday](#w9d2)            
 <a name="guides">
 ### GUIDES
 
-- [MVC Guide](https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/01_mvc)
-- [Rails with jQuery Guide](https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/02_rails_jquery)
-- [GEMS](https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/gems)
+- [MVC Guide](server-applications-guides/rails/01_mvc)
+- [Rails with jQuery Guide](server-applications-guides/rails/02_rails_jquery)
+- [GEMS](server-applications-guides/rails/gems)
 
 <a name="unit4"></a>
 ## Unit 4
@@ -451,7 +451,7 @@ Time   | [Monday](#w11d1)                         | [Tuesday](#w11d2)           
 
 [11-3A]: http://ionicframework.com/getting-started/                                 "Ionic Framework"
 [11-3B]: https://docs.angularjs.org/tutorial                                        "AngularJS Tutorial"
-[11-3C]: https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/03_rails_angular "Rails Angular Guide"
+[11-3C]: server-applications-guides/rails/03_rails_angular "Rails Angular Guide"
 
 [11-4A]: 03-front-end-frameworks/angular-custom-directives-lesson                   "Writing Custom Directives"
 
